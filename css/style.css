@@ -8,14 +8,15 @@ ul{
 
 .container{
     width: 90%;
+    margin: auto;
 }
-
+                /** Navigation **/
 .navigation{
     height: 50px;
 }
 
 .nav-right{
-    width: 40%;
+    width: 30%;
     overflow: hidden;
     float: right;
     padding-top: 10px;
@@ -27,4 +28,8 @@ ul{
     padding: 0 20px;
     color: #000;
     font-size: 18px;
+}
+                    /** header **/
+.header{
+
 }
