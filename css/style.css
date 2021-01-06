@@ -82,12 +82,31 @@ h1{
 .about-photo{
     width: 40%;
     overflow: hidden;
+    float: left;
+    margin-right: 20%;
 }
 
 .about-photo img{
     width: 100%;
 }
 
+.about-myself{
+    overflow: hidden;
+    padding-bottom: 10px;
+}
 
+.download{
+    padding-top: px;
+}
+
+.about-text-h1{
+    margin-bottom: 50px;
+}
+
+.about-text{
+    font-size: 18px;
+    padding-right: 20%;
+    margin-bottom: 70px;
+}
 
 
