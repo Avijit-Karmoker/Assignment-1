@@ -4,6 +4,11 @@ body{
 
 ul{
     list-style: none;
+    padding-left: 20px;
+}
+
+h1{
+    font-size: 60px;
 }
 
 .container{
@@ -13,6 +18,7 @@ ul{
                 /** Navigation **/
 .navigation{
     height: 50px;
+    padding-bottom: 20px;
 }
 
 .nav-right{
@@ -33,3 +39,46 @@ ul{
 .header{
 
 }
+
+.left-me{
+    width: 40%;
+    float: left;
+}
+
+.hellow{
+    margin-bottom: 0;
+}
+
+.ovijit{
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #6c5ce7;
+}
+
+.my-work{
+    font-size: 18px;
+    width: 70%
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #ff7675, #e17055);
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.my-right-photo{
+    width: 40%;
+    overflow: hidden;
+    padding-left: 200px;
+}
+
+.my-right-photo img{
+    width: 100%;
+}
+
+
+
+
+
