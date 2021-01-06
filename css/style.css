@@ -37,7 +37,7 @@ h1{
 }
                     /** header **/
 .header{
-
+    margin-bottom: 50px;
 }
 
 .left-me{
@@ -78,6 +78,15 @@ h1{
     width: 100%;
 }
 
+                    /** About **/
+.about-photo{
+    width: 40%;
+    overflow: hidden;
+}
+
+.about-photo img{
+    width: 100%;
+}
 
 
 
