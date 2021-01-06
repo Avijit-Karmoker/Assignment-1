@@ -79,6 +79,11 @@ h1{
 }
 
                     /** About **/
+
+.about{
+    height: 618px;
+}
+
 .about-photo{
     width: 40%;
     overflow: hidden;
@@ -109,4 +114,61 @@ h1{
     margin-bottom: 70px;
 }
 
+                    /** latest work **/
+
+.latest-work{
+    height: 600px;
+    background-color: #f8f9fc;
+    padding-top: 70px;
+
+}
+
+.working-project{
+    font-size: 40px;
+    text-align: center;
+}
+
+.colour-latest{
+    color: #ff6348;
+}
+
+.work-show1{
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    border: 20px solid #fff;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px #dfe4ea;
+    background-color: #fff;
+    padding: 0 10px;
+
+}
+
+.work-show2{
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    border: 20px solid #fff;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px #dfe4ea;
+    background-color: #fff;
+    padding: 0 10px;
+
+}
+
+.work-show3{
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    border: 20px solid #fff;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px #dfe4ea;
+    background-color: #fff;
+    padding: 0 10px;
+
+}
+
+.work-show1, img{
+    width: 100%;
+}
 
