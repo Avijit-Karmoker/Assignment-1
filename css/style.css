@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 
 ul{
@@ -33,7 +34,7 @@ h1{
     float: left;
     padding: 0 20px;
     color: #000;
-    font-size: 18px;
+    font-size: 25px;
 }
                     /** header **/
 .header{
@@ -43,6 +44,15 @@ h1{
 .left-me{
     width: 40%;
     float: left;
+}
+
+.left-me p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.left-me h1{
+    font-size: 80px;
 }
 
 .hellow{
@@ -63,9 +73,10 @@ h1{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(180deg, #ff7675, #e17055);
-    padding: 10px 20px;
+    padding: 15px 40px;
     color: #fff;
     border-radius: 8px;
+    font-size: 25px
 }
 
 .my-right-photo{
@@ -81,7 +92,7 @@ h1{
                     /** About **/
 
 .about{
-    height: 700px;
+    height: 800px;
 }
 
 .about-photo{
@@ -97,11 +108,11 @@ h1{
 
 .about-myself{
     overflow: hidden;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 
 .download{
-    width: 17px;
+    width: 30px;
 }
 
 .about-text-h1{
@@ -109,7 +120,7 @@ h1{
 }
 
 .about-text{
-    font-size: 18px;
+    font-size: 25px;
     padding-right: 20%;
     margin-bottom: 70px;
 }
@@ -117,14 +128,14 @@ h1{
                     /** latest work **/
 
 .latest-work{
-    height: 700px;
+    height: 900px;
     background-color: #f8f9fc;
     padding-top: 70px;
 
 }
 
 .working-project{
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
 }
 
@@ -147,6 +158,14 @@ h1{
     width: 100%;
 }
 
+.work-show1 h2{
+    font-size: 35px;
+}
+
+.work-show1 p{
+    font-size: 25px;
+}
+
 .work-show2{
     width: 20%;
     float: left;
@@ -162,6 +181,14 @@ h1{
     width: 100%;
 }
 
+.work-show2 h2{
+    font-size: 35px;
+}
+
+.work-show2 p{
+    font-size: 25px;
+}
+
 .work-show3{
     width: 20%;
     float: left;
@@ -175,6 +202,14 @@ h1{
 
 .work-show3 img{
     width: 100%;
+}
+
+.work-show3 h2{
+    font-size: 35px;
+}
+
+.work-show3 p{
+    font-size: 25px;
 }
 
                         /** footer **/
@@ -198,9 +233,13 @@ h1{
     color: #fff;
     width: 60%;
     float: left;
-    padding-top: 30px;
+    padding-top: 12px;
     padding-left: 60px;
-    margin-right: 12%;
+    margin-right: 10%;
+}
+
+.work-inquiry h1{
+    font-size: 70px;
 }
 
 .chat-button{
@@ -209,6 +248,7 @@ h1{
     padding: 25px 60px;
     color: #fff;
     border-radius: 8px;
+    font-size: 25px
 }
 
 .button-chat{
@@ -222,14 +262,16 @@ h1{
 
 .footer-text h3{
     font-size: 30px;
-    margin-bottom: 30px;
-    margin-top: 100px
+    margin-bottom: 20px;
+    margin-top: 100px;
+    color: #57606f;
 }
 
 .footer-text h2{
-    font-size: 50px;
-    margin-top: 10px;
+    font-size: 70px;
+    margin-top: 0px;
     margin-bottom: 25px;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .footer-text img{
